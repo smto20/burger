@@ -1,0 +1,30 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "hw14 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smto20/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "eat-da-burger"
+  ],
+  "author": "smto20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smto20/burger/issues"
+  },
+  "homepage": "https://github.com/smto20/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0"
+  }
+}
